@@ -30,7 +30,7 @@ npm i --save loaders.css
 
 ### Usage
 
-##### Standard
+##### Standards
 - Include `loaders.min.css`
 - Create an element and add the animation class (e.g. `<div class="loader-inner ball-pulse"></div>`)
 - Insert the appropriate number of `<div>`s into that element
